@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cust-1790607461861",
+    "name": "Subhanuddin Nuddywale",
+    "initials": "SN",
+    "phone": "08124803252",
+    "email": "nuddywale@gmail.com",
+    "address": "35 Ahmedu Oge Street, Ikoyi, Lagos",
+    "location": "35 Ahmedu Oge Street, Ikoyi, Lagos",
+    "totalOrders": 4,
+    "totalSpent": 53800,
+    "formattedTotalSpent": "₦53,800",
+    "lastOrder": "Today",
+    "status": "Active",
+    "notes": "Order placed via voice agent",
+    "createdAt": "2026-09-28T14:57:41.861Z",
+    "orderHistory": [
+      {
+        "orderId": "BB-5534",
+        "itemsSummary": "1x Doja Nutty Banana Bread, 1x Doja Chocolate Banana Bread",
+        "status": "Preparing",
+        "amount": "₦15,600",
+        "date": "Today"
+      },
+      {
+        "orderId": "BB-8580",
+        "itemsSummary": "2x Doja Yoghurt, 1x Doja Classic Banana Bread",
+        "status": "Preparing",
+        "amount": "₦11,300",
+        "date": "Today"
+      }
+    ]
+  }
+]

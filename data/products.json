@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "6ab7c1c00160b403123362ae",
+    "id": "prod-1790427584749",
+    "addedOn": "26 Sept 2026",
+    "category": "Breads",
+    "currency": "NGN",
+    "description": "Creamy and refreshing homemade yoghurt, freshly prepared for a smooth and delicious taste. Perfect as a healthy snack, breakfast treat, or refreshing drink any time of the day.",
+    "formattedPrice": "₦3,100",
+    "image": "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427438/baked-by-doja/products/gh17lmvxmmlu9qiswt0f.png",
+    "images": [
+      "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427438/baked-by-doja/products/gh17lmvxmmlu9qiswt0f.png"
+    ],
+    "lowStockThreshold": 5,
+    "name": "Doja Yoghurt",
+    "price": 3100,
+    "recentSales": [],
+    "sales": 0,
+    "slug": "doja-yoghurt",
+    "status": "Active",
+    "stock": "In Stock",
+    "stockQuantity": 50,
+    "subtitle": "Creamy, Fresh & Delicious Homemade Yoghurt",
+    "updatedAt": "2026-09-26T12:59:44.750Z"
+  },
+  {
+    "_id": "6ab7c17b0160b4031233629f",
+    "id": "prod-1790427515721",
+    "addedOn": "26 Sept 2026",
+    "category": "Breads",
+    "currency": "NGN",
+    "description": "A delicious twist on our classic banana bread, baked with generous chocolate chips for a rich chocolatey flavour in every bite. Soft, moist and freshly baked for the perfect treat.",
+    "formattedPrice": "₦3,100",
+    "image": "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427438/baked-by-doja/products/gh17lmvxmmlu9qiswt0f.png",
+    "images": [
+      "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427438/baked-by-doja/products/gh17lmvxmmlu9qiswt0f.png"
+    ],
+    "lowStockThreshold": 10,
+    "name": "Doja Chocolate Chip Banana Bread",
+    "price": 3100,
+    "recentSales": [],
+    "sales": 0,
+    "slug": "doja-chocolate-chip-banana-bread",
+    "status": "Active",
+    "stock": "In Stock",
+    "stockQuantity": 50,
+    "subtitle": "Soft Banana Bread Loaded with Chocolate Chips",
+    "updatedAt": "2026-09-26T12:58:35.722Z"
+  },
+  {
+    "_id": "6ab7c1400160b4031233629b",
+    "id": "prod-1790427456028",
+    "addedOn": "26 Sept 2026",
+    "category": "Breads",
+    "currency": "NGN",
+    "description": "Our signature moist banana bread combined with crunchy nuts for an extra layer of texture and flavour. Freshly baked and perfect for anyone who loves a nutty twist.",
+    "formattedPrice": "₦3,100",
+    "image": "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427438/baked-by-doja/products/gh17lmvxmmlu9qiswt0f.png",
+    "images": [
+      "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427438/baked-by-doja/products/gh17lmvxmmlu9qiswt0f.png"
+    ],
+    "lowStockThreshold": 10,
+    "name": "Doja Nutty Banana Bread",
+    "price": 3100,
+    "recentSales": [],
+    "sales": 0,
+    "slug": "doja-nutty-banana-bread",
+    "status": "Active",
+    "stock": "In Stock",
+    "stockQuantity": 50,
+    "subtitle": "Moist Banana Bread with Crunchy Nuts",
+    "updatedAt": "2026-09-26T12:57:36.029Z"
+  },
+  {
+    "_id": "6ab7bfd30160b40312336267",
+    "id": "prod-1790427091776",
+    "addedOn": "26 Sept 2026",
+    "category": "Breads",
+    "currency": "NGN",
+    "description": "Freshly baked banana bread made with ripe bananas for a naturally sweet, soft and moist texture. Perfect for breakfast, a quick snack, or sharing with family and friends.",
+    "formattedPrice": "₦2,600",
+    "image": "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427051/baked-by-doja/products/u1t4r0pnbmei8ie3qqso.png",
+    "images": [
+      "https://res.cloudinary.com/wvhq9qpl/image/upload/v1790427051/baked-by-doja/products/u1t4r0pnbmei8ie3qqso.png"
+    ],
+    "lowStockThreshold": 5,
+    "name": "Doja Classic Banana Bread",
+    "price": 2600,
+    "recentSales": [],
+    "sales": 0,
+    "slug": "doja-classic-banana-bread",
+    "status": "Active",
+    "stock": "In Stock",
+    "stockQuantity": 50,
+    "subtitle": "Moist, Fresh & Homemade Banana Bread",
+    "updatedAt": "2026-09-26T12:51:31.783Z"
+  }
+]

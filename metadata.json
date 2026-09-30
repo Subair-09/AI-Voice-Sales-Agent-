@@ -1,0 +1,7 @@
+{
+  "name": "Baked by Doja - Admin Portal",
+  "description": "AI Voice Sales Agent Admin Portal for Baked by Doja. Manage bakery orders, payments, customers, and voice sales agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

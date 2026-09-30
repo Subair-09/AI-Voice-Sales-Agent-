@@ -1,0 +1,85 @@
+{
+  "store": {
+    "name": "Baked by Doja",
+    "tagline": "Handcrafted Gourmet Banana Breads & Loaves",
+    "description": "Freshly baked gourmet banana bread crafted with caramelized bananas, premium roasted nuts, and pure Madagascar vanilla.",
+    "email": "orders@bakedbydoja.com",
+    "phone": "+234 812 345 6789",
+    "whatsapp": "+234 812 345 6789",
+    "instagram": "@bakedbydoja",
+    "address": "14B Admiralty Way, Lekki Phase 1",
+    "city": "Lagos",
+    "state": "Lagos State",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "currencySymbol": "₦",
+    "timezone": "Africa/Lagos (WAT, UTC+1)",
+    "openingHours": {
+      "weekday": "08:00 AM – 06:00 PM",
+      "weekend": "09:00 AM – 05:00 PM",
+      "bakingDays": "Monday through Saturday",
+      "leadTimeHours": 3
+    }
+  },
+  "agent": {
+    "agentName": "Doja AI Sales Concierge",
+    "voiceId": "amina-lagos",
+    "voiceName": "Amina (Lagos Warm Accent)",
+    "language": "Nigerian English & Pidgin-friendly",
+    "greeting": "Hi, welcome to Baked by Doja! 🍰 We’ve got delicious freshly baked treats ready for you. What can I help you find or order today?",
+    "voiceSpeed": 1,
+    "silenceTimeout": 5,
+    "maxCallDuration": 10,
+    "responseDelay": 350,
+    "bargeIn": true,
+    "autoHandling": true,
+    "callRecording": true,
+    "transcription": true,
+    "humanEscalationPhone": "+234 803 123 4567",
+    "enableFallbackTransfer": true
+  },
+  "payments": {
+    "currency": "NGN",
+    "allowBankTransfer": true,
+    "allowPaystack": true,
+    "allowMonnify": false,
+    "bankName": "Guaranty Trust Bank (GTBank)",
+    "accountNumber": "0123456789",
+    "accountName": "Baked by Doja Confectionery Ltd",
+    "bankInstructions": "Please include your Order ID or phone number as transaction reference and send payment receipt.",
+    "paystackPublicKey": "",
+    "monnifyApiKey": "",
+    "taxRatePercentage": 7.5
+  },
+  "delivery": {
+    "pickupAvailable": true,
+    "pickupLocation": "14B Admiralty Way, Lekki Phase 1, Lagos",
+    "islandDeliveryFee": 2500,
+    "mainlandDeliveryFee": 4000,
+    "freeDeliveryThreshold": 45000,
+    "estimatedDeliveryTime": "45 – 90 minutes across Lagos",
+    "deliveryNotes": "All orders are sealed in heat-resistant, eco-friendly luxury packaging.",
+    "minimumOrderAmount": 10000
+  },
+  "notifications": {
+    "emailAlertsEnabled": true,
+    "smsAlertsEnabled": true,
+    "whatsappAlertsEnabled": true,
+    "adminNotificationEmail": "admin@bakedbydoja.com",
+    "adminNotificationPhone": "+234 812 345 6789",
+    "notifyOnNewOrder": true,
+    "notifyOnPaymentConfirmed": true,
+    "notifyOnLowStock": true,
+    "lowStockAlertThreshold": 10,
+    "dailySummaryEmail": true
+  },
+  "security": {
+    "adminName": "Chef Doja & Admin Team",
+    "adminEmail": "admin@bakedbydoja.com",
+    "sessionTimeoutMinutes": 60,
+    "twoFactorEnabled": false,
+    "enforcePasswordExpiry": false,
+    "auditLogging": true
+  },
+  "updatedAt": "2026-09-30T15:45:42.083Z"
+}

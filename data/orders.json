@@ -1,0 +1,68 @@
+[
+  {
+    "id": "BB-5534",
+    "orderId": "BB-5534",
+    "customerName": "Subhanuddin Nuddywale",
+    "customerPhone": "08124803252",
+    "phoneNumber": "08124803252",
+    "email": "nuddywale@gmail.com",
+    "customerEmail": "nuddywale@gmail.com",
+    "deliveryAddress": "35 Ahmedu Oge Street, Ikoyi, Lagos",
+    "items": [
+      {
+        "name": "Doja Nutty Banana Bread",
+        "productName": "Doja Nutty Banana Bread",
+        "quantity": 1,
+        "unitPrice": 3100,
+        "totalPrice": 3100
+      },
+      {
+        "name": "Doja Chocolate Banana Bread",
+        "productName": "Doja Chocolate Banana Bread",
+        "quantity": 1,
+        "unitPrice": 10000,
+        "totalPrice": 10000
+      }
+    ],
+    "itemsSummary": "1x Doja Nutty Banana Bread, 1x Doja Chocolate Banana Bread",
+    "subtotal": 13100,
+    "deliveryFee": 2500,
+    "totalAmount": 15600,
+    "amount": "₦15,600",
+    "currency": "NGN",
+    "status": "Preparing",
+    "paymentStatus": "Pending",
+    "paymentMethod": "Cash on Delivery",
+    "isAppointment": false,
+    "appointmentDate": "",
+    "appointmentTime": "",
+    "orderType": "Standard Delivery",
+    "notes": "Taken live via AI Voice Sales Agent",
+    "date": "Today",
+    "fullDate": "Sep 28, 2026",
+    "time": "03:00 PM",
+    "timeline": [
+      {
+        "step": "Order Placed via AI Voice Agent",
+        "timestamp": "Just now",
+        "status": "completed"
+      },
+      {
+        "step": "Oven Baking & Preparation",
+        "timestamp": "In progress",
+        "status": "active"
+      },
+      {
+        "step": "Quality Packaging & Gift Ribbon",
+        "timestamp": "Upcoming",
+        "status": "pending"
+      },
+      {
+        "step": "Dispatch & Delivery to Lagos Address",
+        "timestamp": "Upcoming",
+        "status": "pending"
+      }
+    ],
+    "createdAt": "2026-09-28T15:00:20.262Z"
+  }
+]

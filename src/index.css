@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-brand: 'Fredoka', cursive, sans-serif;
+    --font-hand: 'Caveat', cursive, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #F8F4EC;
+    color: #18243A;
+  }
+}
+
+.font-brand {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
+
+.font-script {
+  font-family: 'Caveat', cursive, sans-serif;
+}
+
+.font-sans-ui {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(43, 27, 18, 0.15);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(43, 27, 18, 0.3);
+}
+
